@@ -1,1 +1,2 @@
-# pyhton-code-01
+# python-code-01
+first python
